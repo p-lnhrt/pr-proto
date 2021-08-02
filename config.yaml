@@ -1,0 +1,7 @@
+local:
+  target_dir: ./data
+
+snowflake:
+  database: DEV_DB
+  schema: GOLD
+  role: DEV_ROLE
